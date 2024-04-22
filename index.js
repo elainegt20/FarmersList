@@ -2,8 +2,8 @@
 
 
 
-
-
+const Customer = require('./classes/Customer.js')
+const Product = require('./classes/Product.js')
 
 
 
